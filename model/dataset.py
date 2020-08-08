@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-'''
-@Author: jby
-@Date: 2020-07-13 11:00:51
-@LastEditTime: 2020-07-18 15:40:27
-@LastEditors: Please set LastEditors
-@Description: Define the format of data used in the model.
-@FilePath: /JD_project_2/baseline/model/dataset.py
-'''
+
 import sys
 import os
 import pathlib
