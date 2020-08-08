@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-'''
-@Author: lpx, jby
-@Date: 2020-07-13 11:00:51
-@LastEditTime: 2020-07-18 16:48:37
-@LastEditors: Please set LastEditors
-@Description: Generate a summary.
-@FilePath: /JD_project_2/baseline/model/predict.py
-'''
+
 
 
 import random
