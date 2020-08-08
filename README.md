@@ -17,12 +17,12 @@ model/
  saved_model/: Save trained model object  
  runs/: Save logs for TensorboardX  
  
- Refer to 
- "Get to the point: Summarization with pointer-generator networks"
+ Refer to   
+ "Get to the point: Summarization with pointer-generator networks"  
  The code uses the baseline model in it.
  
  The structure:  
- Encoder: Embedding + BiLSTM
- Attention:
- decoder: Embedding + LSTM + feed forward + softmax
+ Encoder: Embedding + BiLSTM  
+ Attention:  
+ decoder: Embedding + LSTM + feed forward + softmax  
  
