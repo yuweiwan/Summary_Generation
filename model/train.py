@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-'''
-@Author: lpx, jby
-@Date: 2020-07-13 12:31:25
-@LastEditTime: 2020-07-19 14:07:35
-@LastEditors: Please set LastEditors
-@Description: Train the model.
-@FilePath: /JD_project_2/baseline/model/train.py
-'''
+
 
 import pickle
 import os
