@@ -1,11 +1,4 @@
-'''
-@Author: lpx
-@Date: 2020-07-17 17:24:00
-@LastEditTime: 2020-07-18 16:49:59
-@LastEditors: Please set LastEditors
-@Description: Testing vocab.
-@FilePath: /Assignment1/model/test_vocab.py
-'''
+
 import sys
 import os
 import pathlib
