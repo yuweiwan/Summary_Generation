@@ -1,13 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-'''
-@Author: lpx
-@Date: 2020-07-13 20:16:37
-@LastEditTime: 2020-07-18 17:28:26
-@LastEditors: Please set LastEditors
-@Description: Process a raw dataset into a sample file.
-@FilePath: /JD_project_2/baseline/data/process.py
-'''
 
 import sys
 import os
@@ -23,8 +15,7 @@ from data_utils import write_samples, partition
 
 samples = set()
 # Read json file.
-# json_path = os.path.join(abs_path, '../files/服饰_50k.json')
-json_path = '/home/user10000411/dataset/文本生成数据集/7996a8e3-0c91-4378-a1ee-29afd5068072/file/服饰_50k.json'
+json_path = os.path.join(abs_path, '../files/服饰_50k.json')
 with open(json_path, 'r', encoding='utf8') as file:
     jsf = json.load(file)
 
