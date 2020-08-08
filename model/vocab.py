@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-'''
-@Author: jby
-@Date: 2020-07-13 14:18:13
-@LastEditTime: 2020-07-18 14:17:37
-@LastEditors: Please set LastEditors
-@Description: Define the vocabulary object.
-@FilePath: /JD_project_2/baseline/model/vocab.py
-'''
+
 
 from collections import Counter
 
