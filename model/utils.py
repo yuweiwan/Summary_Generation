@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-'''
-@Author: lpx, jby
-@Date: 2020-07-13 11:07:48
-@LastEditTime: 2020-07-18 14:25:15
-@LastEditors: Please set LastEditors
-@Description: Helper functions or classes used for the model.
-@FilePath: /JD_project_2/baseline/model/utils.py
-'''
+
 
 import time
 import heapq
