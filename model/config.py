@@ -1,13 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-'''
-@Author: lpx, jby
-@Date: 2020-07-13 11:00:51
-@LastEditTime: 2020-07-19 14:10:04
-@LastEditors: Please set LastEditors
-@Description: Define configuration parameters.
-@FilePath: /JD_project_2/baseline/model/config.py
-'''
 
 from typing import Optional
 
