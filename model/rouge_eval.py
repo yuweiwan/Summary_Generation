@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-'''
-@Author: lpx
-@Date: 2020-07-13 17:56:13
-@LastEditTime: 2020-07-18 17:25:31
-@LastEditors: Please set LastEditors
-@Description: Evaluate the model with ROUGE score.
-@FilePath: /JD_project_2/baseline/model/rouge_eval.py
-'''
+
 
 import os
 import sys
