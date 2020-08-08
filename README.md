@@ -11,4 +11,18 @@ model/
  test_vocab.py: Testing vocab.  
  train.py: Train the model.  
  utils.py: Helper functions or classes used for the model.  
- vocal.py: Define the vocabulary object.  
+ vocal.py: Define the vocabulary object. 
+ 
+ file folder may need:  
+ saved_model/: Save trained model object  
+ runs/: Save logs for TensorboardX  
+ 
+ Refer to 
+ "Get to the point: Summarization with pointer-generator networks"
+ The code uses the baseline model in it.
+ 
+ The structure:  
+ Encoder: Embedding + BiLSTM
+ Attention:
+ decoder: Embedding + LSTM + feed forward + softmax
+ 
