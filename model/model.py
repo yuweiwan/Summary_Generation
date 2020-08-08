@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-'''
-@Author: lpx, jby
-@Date: 2020-07-13 11:00:51
-@LastEditTime: 2020-07-18 16:47:58
-@LastEditors: Please set LastEditors
-@Description: Define the model.
-@FilePath: /JD_project_2/baseline/model/model.py
-'''
+
 
 
 import os
