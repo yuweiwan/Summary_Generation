@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-'''
-@Author: jby
-@Date: 2020-07-13 11:00:51
-@LastEditTime: 2020-07-18 15:41:43
-@LastEditors: Please set LastEditors
-@Description: Evaluate the loss in the dev set.
-@FilePath: /JD_project_2/baseline/model/evaluate.py
-'''
+
 import os
 import sys
 import pathlib
